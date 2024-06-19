@@ -2,7 +2,7 @@ Name:Kanakavalli.S
 Company:CODTECH IT SOLUTIONS
 iD:CT04DA2282
 Domain:Dataanalyst
-Duration:MAY to Jun 2024
+Duration:Jun to Jul 2024
 Mentor:Sravani Gouni
 
 

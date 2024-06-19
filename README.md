@@ -1,4 +1,11 @@
-# CODTECH_task1
+Name:Kanakavalli.S
+Company:CODTECH IT SOLUTIONS
+iD:CT04DA2282
+Domain:Dataanalyst
+Duration:MAY to Jun 2024
+Mentor:Sravani Gouni
+
+
 Context:
 The above dataset was taken in context for predicting the price of the cars ,this dataset contains various features of car from manufacturer to the price.
 Hence I have performed the EDA for dataset incontext of price prediction system and have visualised some of the important attributes and explained the correlation between the attributes
